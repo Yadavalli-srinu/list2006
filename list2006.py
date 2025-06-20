@@ -45,14 +45,14 @@ print(list2)
 
 #maximum len
 
-list = ["python","java","c++","developer"]
+list = ["python","java","c++","Developer"]
 le = ""
 for i in list:
     if len(i)>len(le):
         le=i
 print(le)
 
-#Output ======> developer
+#Output ======> Developer
 
 #Given a list and a target number, return all pairs that sum to the target.
 
